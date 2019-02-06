@@ -1,0 +1,23 @@
+---
+title: "spotify_test"
+author: "StevenTaruc"
+date: "February 6, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+spotify <- read.csv("RapCaviar.csv")
+
+```
+
+```{r}
+
+```
+
+
+
